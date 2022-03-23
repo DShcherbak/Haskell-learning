@@ -1,11 +1,11 @@
 module Ch2 where
 
-z = 7
+tz = 7
 
-x = y ^ 2
+tx = ty ^ 2
 
-waxOn = x * 5
+waxOn = tx * 5
 
-y = z + 8
+ty = tz + 8
 
 triple x = x * 3
